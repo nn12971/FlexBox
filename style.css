@@ -1,0 +1,25 @@
+.fleximg{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+    justify-content: space-around;
+}
+.flexp{
+display:flex;
+flex-flow: column wrap;
+align-content: center;
+}
+.bdiv{
+    border: black dashed;
+    width: 10%;
+}
+.flexd{
+    display: flex;
+    flex-flow: wrap row-reverse;
+    justify-content: space-around;
+}
+.flextape{
+    display: flex;
+    flex-flow: column-reverse wrap;
+    align-content: space-around;
+}
